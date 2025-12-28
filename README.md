@@ -1,63 +1,85 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vishesh+Kumar;Android+App+Developer;BCA+Student;Kotlin+%7C+Java+Developer;Building+Creative+Apps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=260&section=header&text=Vishesh%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palvisheshpal626-oss&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Android+App+Developer;BCA+Student;Kotlin+%7C+Java+Expert;Building+Creative+Learning+Apps;Future+Top+Tech+Creator" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=palvisheshpal626-oss&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **BCA Student**
-- 📱 **Android App Developer**
-- 🧠 Love building **learning + gaming apps**
-- 🔥 Experience with **AdMob & Meta Ads**
-- 💡 Creative ideas & problem-solving mindset
-- 🎯 Goal: Become a **Top Android Developer**
+## 👋 Who Am I?
+🎓 **BCA Student**  
+📱 **Android App Developer**  
+🧠 Passionate about **Logic, Games & Learning Apps**  
+💰 Experienced with **AdMob & Meta Ads Integration**  
+🚀 Turning ideas into **real working applications**
+
+> ⚡ *I believe in building skills first — money follows automatically.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="left">
+## 🧠 Skills & Expertise
+<p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,firebase,git,github,vscode&perline=8" />
 </p>
 
+- ✅ Android App Architecture  
+- ✅ Game Logic Development  
+- ✅ Firebase (Auth, Database)  
+- ✅ Ads Monetization  
+- ✅ Clean UI & Bug-Free Apps  
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
+
 ### 🎮 Play & Learn – Code & Brain Games
-- 🧠 Brain Games + Coding MCQs  
-- 📊 Logic & Output-based questions  
-- 🔁 Restart & Wrong Answer Ads  
-- 💰 AdMob + Meta Ads Integrated  
+✔ Brain Games + Coding MCQs  
+✔ Output-based Programming Questions  
+✔ Level-wise Difficulty System  
+✔ Restart & Wrong Answer Ads  
+✔ AdMob + Facebook Ads  
+✔ Smooth & Crash-Free Experience  
 
-### 🧩 Other Apps
-- Speed Math Game  
-- Coding Quiz App  
-- Logic Puzzle Games  
+### 🧩 Other Applications
+- ⚡ Speed Math Game  
+- 🧠 Logical Puzzle Apps  
+- 💻 Coding Quiz Games  
+- 📊 MCQ Practice Apps  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palvisheshpal626-oss&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palvisheshpal626-oss&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palvisheshpal626-oss&show_icons=true&theme=tokyonight" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palvisheshpal626-oss&layout=compact&theme=tokyonight" height="190"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palvisheshpal626-oss&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palvisheshpal626-oss&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-<p align="left">
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
   <a href="mailto:palvisheshpal626@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/palvisheshpal626-oss">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -66,4 +88,8 @@
 
 ---
 
-<h3 align="center">⚡ “Code • Create • Improve Every Day” ⚡</h3>
+<h2 align="center">🚀 “Learn Daily • Build Fearlessly • Grow Continuously” 🚀</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:36BCF7&height=160&section=footer" />
+</p>
